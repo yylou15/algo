@@ -1,8 +1,5 @@
-package dailyTemperatures;
+package dailyKill.dailyTemperatures;
 
-import jdk.nashorn.internal.ir.WhileNode;
-
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class Solution {
