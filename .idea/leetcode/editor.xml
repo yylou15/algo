@@ -43,6 +43,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[515]在每个树行中找最大值.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[515]在每个树行中找最大值.java" />
+              <option name="questionId" value="515" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[7]整数反转.java">
           <value>
             <LeetcodeEditor>
@@ -56,6 +64,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[剑指 Offer 43]1～n整数中1出现的次数.java" />
               <option name="questionId" value="100309" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[剑指 Offer 51]数组中的逆序对.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[剑指 Offer 51]数组中的逆序对.java" />
+              <option name="questionId" value="100318" />
             </LeetcodeEditor>
           </value>
         </entry>
