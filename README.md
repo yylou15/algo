@@ -1,4 +1,4 @@
-## 每日一题
+## 每日一题（太难就另找随机一题）
 
 ### 2020-06-21
 [[124]二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
