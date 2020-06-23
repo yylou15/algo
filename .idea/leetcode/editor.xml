@@ -19,6 +19,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[1072]按列翻转得到最大值等行数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[1072]按列翻转得到最大值等行数.java" />
+              <option name="questionId" value="1147" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[124]二叉树中的最大路径和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[124]二叉树中的最大路径和.java" />
+              <option name="questionId" value="124" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[1348]推文计数.java">
           <value>
             <LeetcodeEditor>
@@ -32,6 +48,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[14]最长公共前缀.java" />
               <option name="questionId" value="14" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[17]电话号码的字母组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[17]电话号码的字母组合.java" />
+              <option name="questionId" value="17" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -80,6 +104,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[面试题 16.18]模式匹配.java" />
               <option name="questionId" value="1000004" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tmp/leetcode/editor/cn/[面试题 17.11]单词距离.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/tmp/leetcode/editor/cn/[面试题 17.11]单词距离.java" />
+              <option name="questionId" value="1000039" />
             </LeetcodeEditor>
           </value>
         </entry>
