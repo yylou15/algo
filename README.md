@@ -1,4 +1,4 @@
-## 每日一题（太难就另找随机一题）
+## ~~每日~~一题
 
 |  日期   | 传送门  | Tags | 难度 |
 |  ----  | ----  | ----| ---- |
@@ -8,6 +8,7 @@
 | 2020-06-29  | [[215]数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 快排、堆排 | Middle |
 | 2020-06-30  | [[剑指 Offer 09]用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | - | Easy |
 | 2020-07-16  | [[785]判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 染色 | Middle |
+| 2020-07-28  | [[104]二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | dfs | Easy |
 
 ## Util 
 
