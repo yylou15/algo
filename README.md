@@ -9,6 +9,7 @@
 | 2020-06-30  | [[剑指 Offer 09]用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | - | Easy |
 | 2020-07-16  | [[785]判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 染色 | Middle |
 | 2020-07-28  | [[104]二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | dfs | Easy |
+| 2020-07-30  | [[343]整数拆分](https://leetcode-cn.com/problems/integer-break/submissions/) | x 和 (x/2)^2比较，得出最佳分解因子3 | Middle |
 
 ## Util 
 
